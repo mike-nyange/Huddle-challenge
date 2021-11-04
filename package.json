@@ -1,0 +1,16 @@
+{
+  "name": "huddle-website",
+  "version": "1.0.0",
+  "description": "![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://github.com/mike-nyange/Huddle-challenge",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
